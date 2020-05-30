@@ -21,7 +21,7 @@ var animating = false;  // Set to true when an animation is in progress.
 var frameNumber = 0;  // Frame number is advanced by 1 for each frame while animating.
 
 var tempObject;  // A temporary animated object.  DELETE IT.
-        var n = 14;
+        var n = 17;
 
         var R = 12;
         var horses = new THREE.Group();
